@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ord-old/static/css/main.729d03c0.css",
+    "main.js": "/ord-old/static/js/main.8253706e.js",
+    "static/media/mainImg.avif": "/ord-old/static/media/mainImg.2a65463a6033ec38eaaa.avif",
+    "index.html": "/ord-old/index.html",
+    "main.729d03c0.css.map": "/ord-old/static/css/main.729d03c0.css.map",
+    "main.8253706e.js.map": "/ord-old/static/js/main.8253706e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.729d03c0.css",
+    "static/js/main.8253706e.js"
+  ]
+}
